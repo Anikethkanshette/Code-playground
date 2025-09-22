@@ -1656,7 +1656,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>I'm always interested in new opportunities and exciting projects.</p>
             <div class="contact-info">
                 <a href="mailto: anilkanshette@gmail.com" class="contact-item">
-                    <span class="contact-icon">📧</span>
+                    <span class="contact-icon">📨</span>
                     john@example.com
                 </a>
                 <a href="https://linkedin.com/in/Anikethkanshette" class="contact-item">
@@ -1664,7 +1664,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     LinkedIn
                 </a>
                 <a href="https://github.com/Anikethkanshette" class="contact-item">
-                    <span class="contact-icon">🐙</span>
+                    <span class="contact-icon">🐈‍⬛</span>
                     GitHub
                 </a>
             </div>
