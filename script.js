@@ -1545,7 +1545,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <body>
     <header class="header">
         <nav class="nav">
-            <div class="logo">JD</div>
+            <div class="logo">AK</div>
             <ul class="nav-menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
