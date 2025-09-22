@@ -1657,7 +1657,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="contact-info">
                 <a href="mailto: anilkanshette@gmail.com" class="contact-item">
                     <span class="contact-icon">📨</span>
-                    john@example.com
+                anilkanshette@gmail.com
                 </a>
                 <a href="https://linkedin.com/in/Anikethkanshette" class="contact-item">
                     <span class="contact-icon">💼</span>
