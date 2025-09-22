@@ -1655,15 +1655,15 @@ document.addEventListener('DOMContentLoaded', function() {
             <h2>Let's Work Together</h2>
             <p>I'm always interested in new opportunities and exciting projects.</p>
             <div class="contact-info">
-                <a href="mailto:john@example.com" class="contact-item">
+                <a href="mailto: anilkanshette@gmail.com" class="contact-item">
                     <span class="contact-icon">📧</span>
                     john@example.com
                 </a>
-                <a href="https://linkedin.com/in/johndoe" class="contact-item">
+                <a href="https://linkedin.com/in/Anikethkanshette" class="contact-item">
                     <span class="contact-icon">💼</span>
                     LinkedIn
                 </a>
-                <a href="https://github.com/johndoe" class="contact-item">
+                <a href="https://github.com/Anikethkanshette" class="contact-item">
                     <span class="contact-icon">🐙</span>
                     GitHub
                 </a>
