@@ -1557,7 +1557,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     <section class="hero" id="home">
         <div class="hero-content">
-            <h1>Hi, I'm <span class="highlight">John Doe</span></h1>
+            <h1>Hi, I'm <span class="highlight">Aniketh.K</span></h1>
             <p class="hero-subtitle">Full Stack Developer & UI/UX Designer</p>
             <p class="hero-description">I create beautiful, functional, and user-centered digital experiences.</p>
             <div class="hero-buttons">
@@ -1572,7 +1572,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <h2>About Me</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p>I'm a passionate developer with 5+ years of experience creating digital solutions that make a difference. I specialize in modern web technologies and love turning complex problems into simple, beautiful designs.</p>
+                    <p>I'm a passionate developer with 3+ years of experience creating digital solutions that make a difference. I specialize in modern web technologies and love turning complex problems into simple, beautiful designs.</p>
                     <div class="skills">
                         <div class="skill-item">JavaScript</div>
                         <div class="skill-item">React</div>
